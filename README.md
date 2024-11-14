@@ -10,5 +10,5 @@
 
 ## Complie and Run
 ```
-  robot -d result TestCases/demo.robot
+  robot -d result TestCases/api_testing.robot
 ```
